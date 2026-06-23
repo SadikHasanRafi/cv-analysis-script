@@ -278,7 +278,3 @@ Normal — each CV takes 15–60 seconds depending on your hardware and model si
 - Maximum CV text sent to the model: **12,000 characters** per CV (configurable in code)
 
 ---
-
-## Source Code & Analysis Results
-
-Full source code and job market analysis output available in the bio link.

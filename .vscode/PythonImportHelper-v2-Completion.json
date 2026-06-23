@@ -1,0 +1,1024 @@
+[
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "FileType",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "Container",
+        "importPath": "collections.abc",
+        "description": "collections.abc",
+        "isExtraImport": true,
+        "detail": "collections.abc",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "collections.abc",
+        "description": "collections.abc",
+        "isExtraImport": true,
+        "detail": "collections.abc",
+        "documentation": {}
+    },
+    {
+        "label": "Container",
+        "importPath": "collections.abc",
+        "description": "collections.abc",
+        "isExtraImport": true,
+        "detail": "collections.abc",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "collections.abc",
+        "description": "collections.abc",
+        "isExtraImport": true,
+        "detail": "collections.abc",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TextIO",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "cast",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "pdfminer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfminer",
+        "description": "pdfminer",
+        "detail": "pdfminer",
+        "documentation": {}
+    },
+    {
+        "label": "PDFDocument",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {}
+    },
+    {
+        "label": "PDFNoOutlines",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {}
+    },
+    {
+        "label": "PDFXRefFallback",
+        "importPath": "pdfminer.pdfdocument",
+        "description": "pdfminer.pdfdocument",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfdocument",
+        "documentation": {}
+    },
+    {
+        "label": "PDFIOError",
+        "importPath": "pdfminer.pdfexceptions",
+        "description": "pdfminer.pdfexceptions",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfexceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PDFObjectNotFound",
+        "importPath": "pdfminer.pdfexceptions",
+        "description": "pdfminer.pdfexceptions",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfexceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PDFTypeError",
+        "importPath": "pdfminer.pdfexceptions",
+        "description": "pdfminer.pdfexceptions",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfexceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PDFValueError",
+        "importPath": "pdfminer.pdfexceptions",
+        "description": "pdfminer.pdfexceptions",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfexceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PDFValueError",
+        "importPath": "pdfminer.pdfexceptions",
+        "description": "pdfminer.pdfexceptions",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfexceptions",
+        "documentation": {}
+    },
+    {
+        "label": "PDFPage",
+        "importPath": "pdfminer.pdfpage",
+        "description": "pdfminer.pdfpage",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfpage",
+        "documentation": {}
+    },
+    {
+        "label": "PDFParser",
+        "importPath": "pdfminer.pdfparser",
+        "description": "pdfminer.pdfparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdfparser",
+        "documentation": {}
+    },
+    {
+        "label": "PDFObjRef",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "PDFStream",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "resolve1",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "stream_value",
+        "importPath": "pdfminer.pdftypes",
+        "description": "pdfminer.pdftypes",
+        "isExtraImport": true,
+        "detail": "pdfminer.pdftypes",
+        "documentation": {}
+    },
+    {
+        "label": "LIT",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {}
+    },
+    {
+        "label": "PSKeyword",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {}
+    },
+    {
+        "label": "PSLiteral",
+        "importPath": "pdfminer.psparser",
+        "description": "pdfminer.psparser",
+        "isExtraImport": true,
+        "detail": "pdfminer.psparser",
+        "documentation": {}
+    },
+    {
+        "label": "isnumber",
+        "importPath": "pdfminer.utils",
+        "description": "pdfminer.utils",
+        "isExtraImport": true,
+        "detail": "pdfminer.utils",
+        "documentation": {}
+    },
+    {
+        "label": "AnyIO",
+        "importPath": "pdfminer.utils",
+        "description": "pdfminer.utils",
+        "isExtraImport": true,
+        "detail": "pdfminer.utils",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "concat",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "read_csv",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "empty",
+        "importPath": "numpy",
+        "description": "numpy",
+        "isExtraImport": true,
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pdfminer.high_level",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfminer.high_level",
+        "description": "pdfminer.high_level",
+        "detail": "pdfminer.high_level",
+        "documentation": {}
+    },
+    {
+        "label": "LAParams",
+        "importPath": "pdfminer.layout",
+        "description": "pdfminer.layout",
+        "isExtraImport": true,
+        "detail": "pdfminer.layout",
+        "documentation": {}
+    },
+    {
+        "label": "zip",
+        "importPath": "builtins",
+        "description": "builtins",
+        "isExtraImport": true,
+        "detail": "builtins",
+        "documentation": {}
+    },
+    {
+        "label": "str",
+        "importPath": "builtins",
+        "description": "builtins",
+        "isExtraImport": true,
+        "detail": "builtins",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "cElementTree",
+        "importPath": "xml.etree",
+        "description": "xml.etree",
+        "isExtraImport": true,
+        "detail": "xml.etree",
+        "documentation": {}
+    },
+    {
+        "label": "pyxnat",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pyxnat",
+        "description": "pyxnat",
+        "detail": "pyxnat",
+        "documentation": {}
+    },
+    {
+        "label": "pdfplumber",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfplumber",
+        "description": "pdfplumber",
+        "detail": "pdfplumber",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "fitz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "fitz",
+        "description": "fitz",
+        "detail": "fitz",
+        "documentation": {}
+    },
+    {
+        "label": "escape",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def escape(s: str | bytes) -> str:\n    us = str(s, \"latin-1\") if isinstance(s, bytes) else s\n    return ESC_PAT.sub(lambda m: f\"&#{ord(m.group(0))};\", us)\ndef dumpxml(out: TextIO, obj: object, codec: str | None = None) -> None:\n    if obj is None:\n        out.write(\"<null />\")\n        return\n    if isinstance(obj, dict):\n        out.write(f'<dict size=\"{len(obj)}\">\\n')\n        for k, v in obj.items():",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumpxml",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def dumpxml(out: TextIO, obj: object, codec: str | None = None) -> None:\n    if obj is None:\n        out.write(\"<null />\")\n        return\n    if isinstance(obj, dict):\n        out.write(f'<dict size=\"{len(obj)}\">\\n')\n        for k, v in obj.items():\n            out.write(f\"<key>{k}</key>\\n\")\n            out.write(\"<value>\")\n            dumpxml(out, v)",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumptrailers",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def dumptrailers(\n    out: TextIO,\n    doc: PDFDocument,\n    show_fallback_xref: bool = False,\n) -> None:\n    for xref in doc.xrefs:\n        if not isinstance(xref, PDFXRefFallback) or show_fallback_xref:\n            out.write(\"<trailer>\\n\")\n            dumpxml(out, xref.get_trailer())\n            out.write(\"\\n</trailer>\\n\\n\")",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumpallobjs",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def dumpallobjs(\n    out: TextIO,\n    doc: PDFDocument,\n    codec: str | None = None,\n    show_fallback_xref: bool = False,\n) -> None:\n    visited = set()\n    out.write(\"<pdf>\")\n    for xref in doc.xrefs:\n        for objid in xref.get_objids():",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumpoutline",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def dumpoutline(\n    outfp: TextIO,\n    fname: str,\n    objids: Any,\n    pagenos: Container[int],\n    password: str = \"\",\n    dumpall: bool = False,\n    codec: str | None = None,\n    extractdir: str | None = None,\n) -> None:",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "extractembedded",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get(\"UF\") or cast(bytes, obj.get(\"F\")).decode())\n        fileref = obj[\"EF\"].get(\"UF\") or obj[\"EF\"].get(\"F\")\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = (\n                f\"unable to process PDF: reference for {filename!r} is not a PDFStream\"\n            )\n            raise PDFValueError(error_msg)",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "dumppdf",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def dumppdf(\n    outfp: TextIO,\n    fname: str,\n    objids: Iterable[int],\n    pagenos: Container[int],\n    password: str = \"\",\n    dumpall: bool = False,\n    codec: str | None = None,\n    extractdir: str | None = None,\n    show_fallback_xref: bool = False,",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "create_parser",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def create_parser() -> ArgumentParser:\n    parser = ArgumentParser(description=__doc__, add_help=True)\n    parser.add_argument(\n        \"files\",\n        type=str,\n        default=None,\n        nargs=\"+\",\n        help=\"One or more paths to PDF files.\",\n    )\n    parser.add_argument(",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "def main(argv: list[str] | None = None) -> None:\n    parser = create_parser()\n    args = parser.parse_args(args=argv)\n    if args.debug:\n        logging.getLogger().setLevel(logging.DEBUG)\n    objids = [int(x) for x in args.objects.split(\",\")] if args.objects else []\n    if args.page_numbers:\n        pagenos = {x - 1 for x in args.page_numbers}\n    elif args.pagenos:\n        pagenos = {int(x) - 1 for x in args.pagenos.split(\",\")}",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nESC_PAT = re.compile(r'[\\000-\\037&<>()\"\\042\\047\\134\\177-\\377]')\ndef escape(s: str | bytes) -> str:\n    us = str(s, \"latin-1\") if isinstance(s, bytes) else s\n    return ESC_PAT.sub(lambda m: f\"&#{ord(m.group(0))};\", us)\ndef dumpxml(out: TextIO, obj: object, codec: str | None = None) -> None:\n    if obj is None:\n        out.write(\"<null />\")\n        return\n    if isinstance(obj, dict):",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "ESC_PAT",
+        "kind": 5,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "ESC_PAT = re.compile(r'[\\000-\\037&<>()\"\\042\\047\\134\\177-\\377]')\ndef escape(s: str | bytes) -> str:\n    us = str(s, \"latin-1\") if isinstance(s, bytes) else s\n    return ESC_PAT.sub(lambda m: f\"&#{ord(m.group(0))};\", us)\ndef dumpxml(out: TextIO, obj: object, codec: str | None = None) -> None:\n    if obj is None:\n        out.write(\"<null />\")\n        return\n    if isinstance(obj, dict):\n        out.write(f'<dict size=\"{len(obj)}\">\\n')",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "LITERAL_FILESPEC",
+        "kind": 5,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "LITERAL_FILESPEC = LIT(\"Filespec\")\nLITERAL_EMBEDDEDFILE = LIT(\"EmbeddedFile\")\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get(\"UF\") or cast(bytes, obj.get(\"F\")).decode())\n        fileref = obj[\"EF\"].get(\"UF\") or obj[\"EF\"].get(\"F\")\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = (\n                f\"unable to process PDF: reference for {filename!r} is not a PDFStream\"",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "LITERAL_EMBEDDEDFILE",
+        "kind": 5,
+        "importPath": "venv.Scripts.dumppdf",
+        "description": "venv.Scripts.dumppdf",
+        "peekOfCode": "LITERAL_EMBEDDEDFILE = LIT(\"EmbeddedFile\")\ndef extractembedded(fname: str, password: str, extractdir: str) -> None:\n    def extract1(objid: int, obj: dict[str, Any]) -> None:\n        filename = os.path.basename(obj.get(\"UF\") or cast(bytes, obj.get(\"F\")).decode())\n        fileref = obj[\"EF\"].get(\"UF\") or obj[\"EF\"].get(\"F\")\n        fileobj = doc.getobj(fileref.objid)\n        if not isinstance(fileobj, PDFStream):\n            error_msg = (\n                f\"unable to process PDF: reference for {filename!r} is not a PDFStream\"\n            )",
+        "detail": "venv.Scripts.dumppdf",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.log2design",
+        "description": "venv.Scripts.log2design",
+        "peekOfCode": "def main(args):\n    runs_df = load_onsets(args.onsets_files, args)\n    print(\"Saving designfile (%d rows) to %s\" % (runs_df.shape[0], args.out))\n    runs_df.to_csv(args.out, index=False)\ndef load_onsets(onsets_files, args):\n    \"\"\"Read onsets file and add metadata from their filenames.\n    Return one concatenated pandas dataframe with all trials as rows.\"\"\"\n    runs = []\n    for i, fid in enumerate(onsets_files):\n        run = read_csv(fid)",
+        "detail": "venv.Scripts.log2design",
+        "documentation": {}
+    },
+    {
+        "label": "load_onsets",
+        "kind": 2,
+        "importPath": "venv.Scripts.log2design",
+        "description": "venv.Scripts.log2design",
+        "peekOfCode": "def load_onsets(onsets_files, args):\n    \"\"\"Read onsets file and add metadata from their filenames.\n    Return one concatenated pandas dataframe with all trials as rows.\"\"\"\n    runs = []\n    for i, fid in enumerate(onsets_files):\n        run = read_csv(fid)\n        # If any column arguments were given, convert to a lyman-like design\n        # with explicitly named columns. Else, just concatenate and add 'run'.\n        if (args.onset_col or args.duration_col or args.condition_col or\n                args.pmods_col):",
+        "detail": "venv.Scripts.log2design",
+        "documentation": {}
+    },
+    {
+        "label": "rename_columns",
+        "kind": 2,
+        "importPath": "venv.Scripts.log2design",
+        "description": "venv.Scripts.log2design",
+        "peekOfCode": "def rename_columns(args, run):\n    cols = ['run', 'onset', 'duration', 'condition']\n    # Cleanup any columns that might exist if we don't want them\n    if args.drop_cols:\n        for col in cols:\n            if col in run.columns:\n                run.drop(col, axis=1, inplace=True)\n    columns = {}\n    columns[args.onset_col] = 'onset'\n    columns[args.condition_col] = 'condition'",
+        "detail": "venv.Scripts.log2design",
+        "documentation": {}
+    },
+    {
+        "label": "onsets_for",
+        "kind": 2,
+        "importPath": "venv.Scripts.log2design",
+        "description": "venv.Scripts.log2design",
+        "peekOfCode": "def onsets_for(cond, run_df):\n    \"\"\"\n    Inputs:\n      * Condition Label to grab onsets, durations & amplitudes for.\n      * Pandas Dataframe for current run containing onsets values as columns.\n    Outputs:\n      * Returns a dictionary of extracted values for onsets, durations, etc.\n      * Returns None if there are no onsets.\n    \"\"\"\n    condinfo = {}",
+        "detail": "venv.Scripts.log2design",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "venv.Scripts.log2design",
+        "description": "venv.Scripts.log2design",
+        "peekOfCode": "def parse_args():\n    parser = ArgumentParser()\n    parser.add_argument('onsets_files', type=FileType('r'),\n                        help='List of FSL EV onsets to convert', nargs='+')\n    parser.add_argument('--out',   '-o', default='onsets_',\n                        help='Output filename.')\n    parser.add_argument('--verbose',      '-v', action=\"count\",\n                        help=\"increase output verbosity\")\n    parser.add_argument('--pmod-name', default='pmod',\n                        help='Name to use when writing FSL Amplitude as SPM '",
+        "detail": "venv.Scripts.log2design",
+        "documentation": {}
+    },
+    {
+        "label": "float_or_disabled",
+        "kind": 2,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "def float_or_disabled(x: str) -> float | None:\n    if x.lower().strip() == \"disabled\":\n        return None\n    try:\n        return float(x)\n    except ValueError as err:\n        raise argparse.ArgumentTypeError(f\"invalid float value: {x}\") from err\ndef extract_text(\n    files: Iterable[str] = [],\n    outfile: str = \"-\",",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text",
+        "kind": 2,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "def extract_text(\n    files: Iterable[str] = [],\n    outfile: str = \"-\",\n    laparams: LAParams | None = None,\n    output_type: str = \"text\",\n    codec: str = \"utf-8\",\n    strip_control: bool = False,\n    maxpages: int = 0,\n    page_numbers: Container[int] | None = None,\n    password: str = \"\",",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "create_parser",
+        "kind": 2,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "def create_parser() -> argparse.ArgumentParser:\n    parser = argparse.ArgumentParser(description=__doc__, add_help=True)\n    parser.add_argument(\n        \"files\",\n        type=str,\n        default=None,\n        nargs=\"+\",\n        help=\"One or more paths to PDF files.\",\n    )\n    parser.add_argument(",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "def parse_args(args: list[str] | None) -> argparse.Namespace:\n    parsed_args = create_parser().parse_args(args=args)\n    # Propagate parsed layout parameters to LAParams object\n    if parsed_args.no_laparams:\n        parsed_args.laparams = None\n    else:\n        parsed_args.laparams = LAParams(\n            line_overlap=parsed_args.line_overlap,\n            char_margin=parsed_args.char_margin,\n            line_margin=parsed_args.line_margin,",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "def main(args: list[str] | None = None) -> int:\n    parsed_args = parse_args(args)\n    extract_text(**vars(parsed_args))\n    return 0\nif __name__ == \"__main__\":\n    sys.exit(main())",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "OUTPUT_TYPES",
+        "kind": 5,
+        "importPath": "venv.Scripts.pdf2txt",
+        "description": "venv.Scripts.pdf2txt",
+        "peekOfCode": "OUTPUT_TYPES = ((\".htm\", \"html\"), (\".html\", \"html\"), (\".xml\", \"xml\"), (\".tag\", \"tag\"))\ndef float_or_disabled(x: str) -> float | None:\n    if x.lower().strip() == \"disabled\":\n        return None\n    try:\n        return float(x)\n    except ValueError as err:\n        raise argparse.ArgumentTypeError(f\"invalid float value: {x}\") from err\ndef extract_text(\n    files: Iterable[str] = [],",
+        "detail": "venv.Scripts.pdf2txt",
+        "documentation": {}
+    },
+    {
+        "label": "cmp",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def cmp(a, b):\n    return (a > b) - (a < b)\nfrom builtins import zip\nfrom builtins import str\nimport os\nimport os.path as op\nimport sys\nfrom xml.etree import cElementTree as ET\nimport pyxnat\nPROJ_ATTRS = [",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "copy_attrs",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def copy_attrs(src_obj, dest_obj, attr_list):\n    \"\"\" Copies list of attributes form source to destination\"\"\"\n    src_attrs = src_obj.attrs.mget(attr_list)\n    src_list = dict(list(zip(attr_list, src_attrs)))\n    # NOTE: For some reason need to set te again b/c a bug somewhere sets te\n    # to sequence name\n    te_key = 'xnat:mrScanData/parameters/te'\n    if te_key in src_list:\n        src_list[te_key] = src_obj.attrs.get(te_key)\n    dest_obj.attrs.mset(src_list)",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "copy_attributes",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def copy_attributes(src_obj, dest_obj):\n    '''Copy attributes from src to dest'''\n    src_type = src_obj.datatype()\n    types = {'xnat:projectData': PROJ_ATTRS,\n             'xnat:subjectData': SUBJ_ATTRS,\n             'xnat:mrSessionData': MR_EXP_ATTRS,\n             'xnat:petSessionData': PET_EXP_ATTRS,\n             'xnat:ctSessionData': CT_EXP_ATTRS,\n             'xnat:mrScanData': MR_SCAN_ATTRS,\n             'xnat:petScanData': PET_SCAN_ATTRS,",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "subj_compare",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def subj_compare(item1, item2):\n    '''Compare sort of items'''\n    return cmp(item1.label(), item2.label())\ndef copy_file(src_f, dest_r, cache_d):\n    '''\n    Copy file from XNAT file source to XNAT resource destination,\n    using local cache in between'''\n    f_label = src_f.label()\n    loc_f = cache_d + '/' + f_label\n    # Make subdirectories",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "copy_file",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def copy_file(src_f, dest_r, cache_d):\n    '''\n    Copy file from XNAT file source to XNAT resource destination,\n    using local cache in between'''\n    f_label = src_f.label()\n    loc_f = cache_d + '/' + f_label\n    # Make subdirectories\n    loc_d = op.dirname(loc_f)\n    if not op.exists(loc_d):\n        os.makedirs(loc_d)",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "copy_res_zip",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def copy_res_zip(src_r, dest_r, cache_d):\n    '''\n    Copy a resource from XNAT source to XNAT destination using local cache\n    in between\n    '''\n    try:\n        # Download zip of resource\n        print('INFO:Downloading resource as zip...')\n        cache_z = src_r.get(cache_d, extract=False)\n        # Upload zip of resource",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "is_empty_resource",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def is_empty_resource(_res):\n    '''Check if resource contains any files'''\n    f_count = 0\n    for f_in in _res.files().fetchall('obj'):\n        f_count += 1\n        break\n    return f_count == 0\n# copy_project and copy_subject are untested\n# def copy_project(src_proj, dst_proj, proj_cache_dir):\n#     '''Copy XNAT project from source to destination'''",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "copy_session",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def copy_session(src_sess, dst_sess, sess_cache_dir):\n    '''Copy XNAT session from source to destination'''\n    print('INFO:uploading session attributes as xml')\n    # Write xml to file\n    if not op.exists(sess_cache_dir):\n        os.makedirs(sess_cache_dir)\n    sess_xml = src_sess.get()\n    xml_path = op.join(sess_cache_dir, 'sess.xml')\n    write_xml(sess_xml, xml_path)\n    sess_type = src_sess.datatype()",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "copy_scan",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def copy_scan(src_scan, dst_scan, scan_cache_dir):\n    '''Copy scan from source XNAT to destination XNAT'''\n    scan_type = src_scan.datatype()\n    if scan_type == '':\n        scan_type = 'xnat:otherDicomScanData'\n    dst_scan.create(scans=scan_type)\n    copy_attributes(src_scan, dst_scan)\n    # Process each resource of scan\n    for src_res in src_scan.resources().fetchall('obj'):\n        res_label = src_res.label()",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "copy_res",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def copy_res(src_res, dst_res, res_cache_dir, use_zip=False):\n    '''Copy resource from source XNAT to destination XNAT'''\n    # Create cache dir\n    if not op.exists(res_cache_dir):\n        os.makedirs(res_cache_dir)\n    # Prepare resource and check for empty\n    is_empty = False\n    print(dst_res._uri)\n    if not dst_res.exists():\n        dst_res.create()",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "write_xml",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def write_xml(xml_str, file_path, clean_tags=True):\n    \"\"\"Writing XML.\"\"\"\n    root = ET.fromstring(xml_str)\n    # We only want the tags and attributes relevant to root, no children\n    if clean_tags:\n        # Remove ID\n        if 'ID' in root.attrib:\n            del root.attrib['ID']\n        # Remove sharing tags\n        tag = '{http://nrg.wustl.edu/xnat}sharing'",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "create_parser",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def create_parser():\n    import argparse\n    \"\"\"Parse commandline arguments.\"\"\"\n    arg_parser = argparse.ArgumentParser(\n        description='Downloads a given experiment/session from an XNAT instance '\n                    'and uploads it to an independent one. Only DICOM resources '\n                    'will be imported.',\n        formatter_class=argparse.RawTextHelpFormatter)\n    arg_parser.add_argument(\n        '--h1', '--source_config', dest='source_config',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "def main(args):\n    x1 = pyxnat.Interface(config=args.source_config)\n    x2 = pyxnat.Interface(config=args.dest_config)\n    columns = ['subject_label', 'label']\n    e1 = x1.array.experiments(experiment_id=args.experiment_id,\n                              columns=columns).data[0]\n    p = x2.select.project(args.project_id)\n    s = p.subject(e1['subject_label'])\n    if not s.exists():\n        s.create()",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "PROJ_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "PROJ_ATTRS = [\n    'xnat:projectData/name',\n    'xnat:projectData/description',\n    'xnat:projectData/keywords',\n]\nSUBJ_ATTRS = [\n    'xnat:subjectData/group',\n    'xnat:subjectData/src',\n    'xnat:subjectData/investigator/firstname',\n    'xnat:subjectData/investigator/lastname',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "SUBJ_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "SUBJ_ATTRS = [\n    'xnat:subjectData/group',\n    'xnat:subjectData/src',\n    'xnat:subjectData/investigator/firstname',\n    'xnat:subjectData/investigator/lastname',\n    'xnat:subjectData/demographics[@xsi:type=xnat:demographicData]/dob',\n    'xnat:subjectData/demographics[@xsi:type=xnat:demographicData]/yob',\n    'xnat:subjectData/demographics[@xsi:type=xnat:demographicData]/age',\n    'xnat:subjectData/demographics[@xsi:type=xnat:demographicData]/gender',\n    'xnat:subjectData/demographics[@xsi:type=xnat:demographicData]/handedness',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "MR_EXP_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "MR_EXP_ATTRS = [\n    'xnat:experimentData/date',\n    'xnat:experimentData/visit_id',\n    'xnat:experimentData/time',\n    'xnat:experimentData/note',\n    'xnat:experimentData/investigator/firstname',\n    'xnat:experimentData/investigator/lastname',\n    'xnat:imageSessionData/scanner/manufacturer',\n    'xnat:imageSessionData/scanner/model',\n    'xnat:imageSessionData/operator',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "OTHER_DICOM_SCAN_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "OTHER_DICOM_SCAN_ATTRS = [\n    'xnat:imageScanData/type',\n    'xnat:imageScanData/UID',\n    'xnat:imageScanData/note',\n    'xnat:imageScanData/quality',\n    'xnat:imageScanData/condition',\n    'xnat:imageScanData/series_description',\n    'xnat:imageScanData/documentation',\n    'xnat:imageScanData/frames',\n    'xnat:imageScanData/startTime',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "MR_SCAN_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "MR_SCAN_ATTRS = [\n    'xnat:imageScanData/type',\n    'xnat:imageScanData/UID',\n    'xnat:imageScanData/note',\n    'xnat:imageScanData/quality',\n    'xnat:imageScanData/condition',\n    'xnat:imageScanData/series_description',\n    'xnat:imageScanData/documentation',\n    'xnat:imageScanData/frames',\n    'xnat:imageScanData/startTime',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "SC_SCAN_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "SC_SCAN_ATTRS = [\n    'xnat:imageScanData/type',\n    'xnat:imageScanData/UID',\n    'xnat:imageScanData/note',\n    'xnat:imageScanData/quality',\n    'xnat:imageScanData/condition',\n    'xnat:imageScanData/series_description',\n    'xnat:imageScanData/documentation',\n    'xnat:imageScanData/frames',\n    'xnat:imageScanData/scanner/manufacturer',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "PET_EXP_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "PET_EXP_ATTRS = [\n    'xnat:experimentData/date',\n    'xnat:experimentData/visit_id',\n    'xnat:experimentData/time',\n    'xnat:experimentData/note',\n    'xnat:experimentData/investigator/firstname',\n    'xnat:experimentData/investigator/lastname',\n    'xnat:imageSessionData/scanner/manufacturer',\n    'xnat:imageSessionData/scanner/model',\n    'xnat:imageSessionData/operator',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "CT_EXP_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "CT_EXP_ATTRS = [\n    'xnat:experimentData/date',\n    'xnat:experimentData/visit_id',\n    'xnat:experimentData/time',\n    'xnat:experimentData/note',\n    'xnat:experimentData/investigator/firstname',\n    'xnat:experimentData/investigator/lastname',\n    'xnat:imageSessionData/scanner/manufacturer',\n    'xnat:imageSessionData/scanner/model',\n    'xnat:imageSessionData/operator',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "PET_SCAN_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "PET_SCAN_ATTRS = [\n    'xnat:imageScanData/type',\n    'xnat:imageScanData/UID',\n    'xnat:imageScanData/note',\n    'xnat:imageScanData/quality',\n    'xnat:imageScanData/condition',\n    'xnat:imageScanData/series_description',\n    'xnat:imageScanData/documentation',\n    'xnat:imageScanData/frames',\n    'xnat:imageScanData/scanner/manufacturer',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "CT_SCAN_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "CT_SCAN_ATTRS = [\n    'xnat:imageScanData/type',\n    'xnat:imageScanData/UID',\n    'xnat:imageScanData/note',\n    'xnat:imageScanData/quality',\n    'xnat:imageScanData/condition',\n    'xnat:imageScanData/series_description',\n    'xnat:imageScanData/documentation',\n    'xnat:imageScanData/frames',\n    'xnat:imageScanData/scanner/manufacturer',",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "PROC_ATTRS",
+        "kind": 5,
+        "importPath": "venv.Scripts.sessionmirror",
+        "description": "venv.Scripts.sessionmirror",
+        "peekOfCode": "PROC_ATTRS = [\n    'proc:genProcData/validation/status',\n    'proc:genProcData/procstatus',\n    'proc:genProcData/proctype',\n    'proc:genProcData/procversion',\n    'proc:genProcData/walltimeused',\n    'proc:genProcData/memused'\n]\ndef copy_attrs(src_obj, dest_obj, attr_list):\n    \"\"\" Copies list of attributes form source to destination\"\"\"",
+        "detail": "venv.Scripts.sessionmirror",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_dirs",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def ensure_dirs() -> None:\n    \"\"\"Create output directories if they don't exist.\"\"\"\n    for d in [CV_DIR, PROCESSED_DIR, INSIGHTS_DIR]:\n        d.mkdir(parents=True, exist_ok=True)\ndef log(message: str, also_print: bool = True) -> None:\n    \"\"\"Append a timestamped line to processlog.txt.\"\"\"\n    ts = datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\")\n    line = f\"[{ts}]  {message}\"\n    if also_print:\n        print(line)",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def log(message: str, also_print: bool = True) -> None:\n    \"\"\"Append a timestamped line to processlog.txt.\"\"\"\n    ts = datetime.now().strftime(\"%Y-%m-%d %H:%M:%S\")\n    line = f\"[{ts}]  {message}\"\n    if also_print:\n        print(line)\n    with open(LOG_FILE, \"a\", encoding=\"utf-8\") as f:\n        f.write(line + \"\\n\")\ndef log_divider(char: str = \"─\", length: int = 55) -> None:\n    \"\"\"Print and log a plain divider line (no timestamp).\"\"\"",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "log_divider",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def log_divider(char: str = \"─\", length: int = 55) -> None:\n    \"\"\"Print and log a plain divider line (no timestamp).\"\"\"\n    line = char * length\n    print(line)\n    with open(LOG_FILE, \"a\", encoding=\"utf-8\") as f:\n        f.write(line + \"\\n\")\n# ═══════════════════════════════════════════════════════════════════════════\n# 1. PDF TEXT EXTRACTION\n# ═══════════════════════════════════════════════════════════════════════════\ndef extract_text_from_pdf(pdf_path: Path) -> str:",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "extract_text_from_pdf",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def extract_text_from_pdf(pdf_path: Path) -> str:\n    \"\"\"\n    Extract full text from every page of a PDF.\n    Returns empty string on failure (corrupt / empty file).\n    \"\"\"\n    try:\n        if PDF_BACKEND == \"pdfplumber\":\n            with pdfplumber.open(pdf_path) as pdf:\n                pages = [page.extract_text() or \"\" for page in pdf.pages]\n            return \"\\n\".join(pages).strip()",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "call_llm",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def call_llm(cv_text: str) -> str:\n    \"\"\"\n    Send CV text to Ollama and return the raw response string.\n    Raises on connection / HTTP errors.\n    \"\"\"\n    prompt = EXTRACTION_PROMPT_TEMPLATE + cv_text[:12000]\n    payload = {\n        \"model\": MODEL,\n        \"prompt\": prompt,\n        \"stream\": False,",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "parse_llm_output",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def parse_llm_output(raw: str) -> dict | None:\n    \"\"\"\n    Parse the LLM's JSON response into a Python dict.\n    Returns None if parsing fails.\n    \"\"\"\n    cleaned = raw.strip()\n    if cleaned.startswith(\"```\"):\n        lines = cleaned.splitlines()\n        cleaned = \"\\n\".join(lines[1:-1]) if lines[-1].strip() == \"```\" else \"\\n\".join(lines[1:])\n    try:",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "save_json",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def save_json(data: dict, cv_path: Path) -> None:\n    \"\"\"Save extracted data as individual JSON in processed_cv/.\"\"\"\n    out_path = PROCESSED_DIR / (cv_path.stem + \".json\")\n    with open(out_path, \"w\", encoding=\"utf-8\") as f:\n        json.dump(data, f, indent=2, ensure_ascii=False)\n    log(f\"💾  Individual JSON saved → {out_path}\")\ndef append_to_all_candidates(data: dict, cv_filename: str) -> None:\n    \"\"\"\n    Append this candidate's data into insights/all_candidates.json.\n    The file holds a JSON array — we load, append, and rewrite atomically.",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "append_to_all_candidates",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def append_to_all_candidates(data: dict, cv_filename: str) -> None:\n    \"\"\"\n    Append this candidate's data into insights/all_candidates.json.\n    The file holds a JSON array — we load, append, and rewrite atomically.\n    \"\"\"\n    candidates: list = []\n    if ALL_CANDIDATES_FILE.exists():\n        try:\n            candidates = json.loads(ALL_CANDIDATES_FILE.read_text(encoding=\"utf-8\"))\n        except (json.JSONDecodeError, OSError):",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "update_skills",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def update_skills(skills: list[str]) -> None:\n    \"\"\"Append unique skills to insights/skills.txt.\"\"\"\n    existing: set[str] = set()\n    if SKILLS_FILE.exists():\n        existing = {\n            line.strip().lower()\n            for line in SKILLS_FILE.read_text(encoding=\"utf-8\").splitlines()\n            if line.strip()\n        }\n    new_skills = [s for s in skills if s.strip().lower() not in existing]",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "update_career_objective",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def update_career_objective(name: str, email: str, objective: str) -> None:\n    \"\"\"Append candidate's career objective block to insights/career_objective.txt.\"\"\"\n    block = f\"{name} ({email})\\n{objective}\\n\\n\"\n    with open(CAREER_OBJ_FILE, \"a\", encoding=\"utf-8\") as f:\n        f.write(block)\n    log(\"🎯  Career objective appended.\")\ndef update_projects(name: str, projects: list[dict]) -> None:\n    \"\"\"Append all projects from this candidate to insights/projects.txt.\"\"\"\n    if not projects:\n        log(\"📁  No projects found for this candidate.\")",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "update_projects",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def update_projects(name: str, projects: list[dict]) -> None:\n    \"\"\"Append all projects from this candidate to insights/projects.txt.\"\"\"\n    if not projects:\n        log(\"📁  No projects found for this candidate.\")\n        return\n    with open(PROJECTS_FILE, \"a\", encoding=\"utf-8\") as f:\n        f.write(f\"=== Projects from: {name} ===\\n\")\n        for p in projects:\n            proj_name = p.get(\"name\", \"Unnamed Project\")\n            details   = p.get(\"details\", \"No details provided.\")",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "save_outputs",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def save_outputs(data: dict, cv_path: Path) -> None:\n    \"\"\"Orchestrate all file-write operations for a single CV.\"\"\"\n    save_json(data, cv_path)\n    append_to_all_candidates(data, cv_path.name)\n    update_skills(data.get(\"skills\", []))\n    update_career_objective(\n        data.get(\"full_name\", \"\"),\n        data.get(\"email\", \"\"),\n        data.get(\"career_objective\", \"\")\n    )",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "process_single_cv",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def process_single_cv(cv_path: Path, index: int, total: int) -> bool:\n    \"\"\"\n    Full pipeline for one CV file.\n    Returns True on success, False on any failure.\n    \"\"\"\n    remaining_after = total - index\n    log(f\"📄  File       : {cv_path.name}\")\n    log(f\"📊  Progress   : {index}/{total}  |  Remaining after this: {remaining_after}\")\n    start = datetime.now()\n    # Step 1: Extract text",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "def main() -> None:\n    ensure_dirs()\n    global_start = datetime.now()\n    log_divider(\"═\")\n    log(\"🚀  CV PROCESSING STARTED\")\n    log(f\"🕐  Start time  : {global_start.strftime('%Y-%m-%d %H:%M:%S')}\")\n    log(f\"🤖  Model       : {MODEL}\")\n    log_divider(\"═\")\n    pdf_files = sorted(CV_DIR.glob(\"*.pdf\"))\n    total = len(pdf_files)",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "ALL_CANDIDATES_FILE",
+        "kind": 5,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "ALL_CANDIDATES_FILE = INSIGHTS_DIR / \"all_candidates.json\"   # ← combined file\nOLLAMA_URL  = \"http://localhost:11434/api/generate\"\nMODEL       = \"mistral:latest\"\n# MODEL       = \"qwen3.5:4b\"  # specify a version for stability\n# ═══════════════════════════════════════════════════════════════════════════\n# HELPERS\n# ═══════════════════════════════════════════════════════════════════════════\ndef ensure_dirs() -> None:\n    \"\"\"Create output directories if they don't exist.\"\"\"\n    for d in [CV_DIR, PROCESSED_DIR, INSIGHTS_DIR]:",
+        "detail": "script",
+        "documentation": {}
+    },
+    {
+        "label": "EXTRACTION_PROMPT_TEMPLATE",
+        "kind": 5,
+        "importPath": "script",
+        "description": "script",
+        "peekOfCode": "EXTRACTION_PROMPT_TEMPLATE = \"\"\"\nYou are a CV parser. Extract the following fields from the CV text below.\nRespond ONLY with a valid JSON object — no explanation, no markdown fences.\nFields to extract:\n- full_name        (string, or \"UNKNOWN\" if not found)\n- email            (string, or \"\")\n- career_objective (string, or \"\")\n- skills           (list of strings)\n- projects         (list of objects with keys: name, details)\n- work_experience  (list of objects with keys: company, role, duration, description)",
+        "detail": "script",
+        "documentation": {}
+    }
+]
